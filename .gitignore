@@ -8,3 +8,4 @@ node_modules
 jsconfig.json
 dictionary.js
 .directory
+package-lock.json
