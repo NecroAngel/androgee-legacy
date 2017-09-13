@@ -1,0 +1,34 @@
+{
+    "discord": {
+        "token": "DISCORD_TOKEN",
+        "debugChannel": "DEBUG_CHANNEL",
+        "minecraftChannel": "MINECRAFT_CHANNEL",
+        "rustChannel": "RUST_CHANNEL",
+        "demigodRole": "DEMIGOD_ROLE",
+        "heroesRole": "HEROES_ROLE"
+    },
+    "minecraft": {
+        "enabled": true,
+        "envars": [
+            "MINECRAFT_IP",
+            "MINECRAFT_PORT",
+            "MINECRAFT_PASSWORD"
+        ]
+    },
+    "rust": {
+        "enabled": true,
+        "envars": [
+            "RUST_IP",
+            "RUST_PORT",
+            "RUST_PASSWORD"
+        ]
+    },
+    "gmod": {
+        "enabled": true,
+        "envars": [
+            "GMOD_IP",
+            "GMOD_PORT",
+            "GMOD_PASSWORD"
+        ]
+    }
+}
