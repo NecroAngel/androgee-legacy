@@ -18,6 +18,7 @@
   "dependencies": {
     "discord.js": "^10.0.1",
     "fast-diff": "^1.1.1",
+    "githubhook": "^1.9.1",
     "redis": "^2.7.1",
     "request": "^2.78.0",
     "simple-rcon": "^0.3.1",
